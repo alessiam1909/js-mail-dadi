@@ -10,7 +10,7 @@ if (numUtente > 6 || numUtente < 1){
     alert("Il numero inserito è maggiore di 6 o minore di 1, riprova");
 }
 //  Genero un numero randomico da 1 a 6 per il computer
-let numComputer = Math.round(Math.random() * 6)+ 1;
+let numComputer = Math.floor(Math.random() * 6)+ 1;
 console.log(numComputer);
 
 // Se il numero è minore di 6 ma maggiore di 0 prosegue con il calcolo
