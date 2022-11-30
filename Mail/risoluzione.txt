@@ -1,0 +1,7 @@
+PROBLEMA: Chiedi all’utente la sua email, controlla che sia nella lista di chi può accedere, stampa un messaggio appropriato sull’esito del controllo.  Non utilizzare le funzioni indexOf o includes!
+
+RISOLUZIONE:
+1- Chiedo all'utente di inserire la sua email
+2- Creo un ciclo per verificare che la mail inserita appartenga alla lista delle email valide
+   2.1 Se appartiene alle mail valide accetto la mail
+   2.2 Altrimenti avviso l'utente che la mail inserita non è valida
