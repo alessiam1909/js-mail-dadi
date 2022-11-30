@@ -1,0 +1,7 @@
+PROBLEMA:  Generare un numero random da 1 a 6, sia per il giocatore sia per il computer. Stabilire il vincitore, in base a chi fa il punteggio più alto.
+
+RISOLUZIONE: 
+1- Inserisci un numero da 1 a 6
+2- Genera automaticamente un altro numero da 1 a 6
+3- Verifica quale numero è maggiore 
+4- Comunica chi ha vinto
